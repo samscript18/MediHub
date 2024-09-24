@@ -161,7 +161,3 @@ This document outlines the features of **Medihub**, a comprehensive Healthcare M
   - Referral system for patients and specialists.
 - **Multi-language Support**:
   - Support for multiple languages.
-
-## 14. Mobile Responsiveness
-
-- Ensure mobile-friendliness for all features, or build a dedicated mobile app for patients and doctors.
